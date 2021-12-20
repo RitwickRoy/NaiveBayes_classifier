@@ -1,0 +1,15 @@
+﻿Outlook,Humidity,Temperature,Wind,Play
+sunny,med,high,FALSE,no
+sunny,high,high,TRUE,no
+rain,low,low,TRUE,no
+sunny,high,med,FALSE,no
+rain,med,low,TRUE,no
+overcast,med,high,FALSE,yes
+rain,high,low,FALSE,yes
+rain,med,low,FALSE,yes
+overcast,low,low,TRUE,yes
+sunny,low,low,FALSE,yes
+rain,med,med,FALSE,yes
+sunny,low,med,TRUE,yes
+overcast,high,med,TRUE,yes
+overcast,low,high,FALSE,yes
